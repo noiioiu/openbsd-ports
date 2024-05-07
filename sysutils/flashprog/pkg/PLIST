@@ -1,0 +1,3 @@
+@man man/man8/flashprog.8
+@bin sbin/flashprog
+share/doc/pkg-readmes/${PKGSTEM}
