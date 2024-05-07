@@ -1,0 +1,2 @@
+kakoune-lsp is an LSP client for the kakoune text editor.  Kakoune
+must be configured to use it.
