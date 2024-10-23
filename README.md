@@ -1,3 +1,8 @@
-To build packages: Clone to `/usr/ports/mystuff`.
+To build ports: Clone to `/usr/ports/mystuff`.
 
-To install packages: Copy the public key to `/etc/signify`, then use `pkg_add(1)`.
+## Installing
+If you have a copy of my public key in `/etc/signify`, you can install the packages with `pkg_add(1)`, for example:
+
+```
+$ pkg_add ~/Downloads/flashprog-1.1.tgz
+```
