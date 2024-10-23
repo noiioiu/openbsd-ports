@@ -1,6 +1,6 @@
 COMMENT=	flash ROM programmer for BIOS etc
 
-V=		1.0.1
+V=		1.1
 DISTNAME=	flashprog-v${V}
 PKGNAME=	flashprog-${V}
 EXTRACT_SUFX=	.tar.bz2
