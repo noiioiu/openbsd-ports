@@ -1,6 +1,6 @@
 COMMENT =	kakoune language server protocol client
 CATEGORIES =	devel
-V =	17.0.1
+V =	18.0.2
 
 GH_ACCOUNT =	kakoune-lsp
 GH_PROJECT =	kakoune-lsp
