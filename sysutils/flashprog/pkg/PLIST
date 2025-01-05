@@ -1,3 +1,5 @@
+@bin bin/flashprog
+@man man/man8/flashprog-config.8
+@man man/man8/flashprog-write-protect.8
 @man man/man8/flashprog.8
-@bin sbin/flashprog
 share/doc/pkg-readmes/${PKGSTEM}
