@@ -1,4 +1,2 @@
 @bin bin/${MODCABAL_STEM}
-@comment share/doc/${PKGNAME}/
-@comment share/doc/${PKGNAME}/LICENSE
 @bin bin/${MODCABAL_STEM}-wrapper

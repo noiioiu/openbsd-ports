@@ -419,7 +419,7 @@ SHA256 (cargo/zstd-seekable-0.1.23.tar.gz) = V0oRfFzbiNHxM4HuOhmmpF+2ygyYQ206ld+
 SHA256 (cargo/zvariant-3.15.0.tar.gz) = RLKRvuDZYMUxcHgK8UjcpfomCmPN0k8ZYvqC4D5TM4w=
 SHA256 (cargo/zvariant_derive-3.15.0.tar.gz) = k016ffwxDW7gbIf/6I707KfT43uyUd7OLvk9qPF9js0=
 SHA256 (cargo/zvariant_utils-1.0.1.tar.gz) = cjTw2BFYnbSS0WiT4/Ieji/SgubQGwzd7jEDIgYswgA=
-SHA256 (pijul-1.0.0-beta.9.tar.gz) = xRpDq/Zt/dYzk/nX5CYSmnacc0XWTUUaML6TmXMwYtI=
+SHA256 (pijul-1.0.0-beta.9..tar.gz) = xRpDq/Zt/dYzk/nX5CYSmnacc0XWTUUaML6TmXMwYtI=
 SIZE (cargo/addr2line-0.21.0.tar.gz) = 40807
 SIZE (cargo/adler-1.0.2.tar.gz) = 12778
 SIZE (cargo/adler32-1.2.0.tar.gz) = 6411
@@ -841,4 +841,4 @@ SIZE (cargo/zstd-seekable-0.1.23.tar.gz) = 427790
 SIZE (cargo/zvariant-3.15.0.tar.gz) = 72221
 SIZE (cargo/zvariant_derive-3.15.0.tar.gz) = 10943
 SIZE (cargo/zvariant_utils-1.0.1.tar.gz) = 6223
-SIZE (pijul-1.0.0-beta.9.tar.gz) = 86859
+SIZE (pijul-1.0.0-beta.9..tar.gz) = 86859
